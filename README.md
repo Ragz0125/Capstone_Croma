@@ -1,5 +1,13 @@
 This is a project that has been done to demonstrate the skills that has been learnt during the course training 
 
+<p>Register Page</p>
+<img src="Screenshots/Register.PNG"  height="400" />
+<br>
+
+<p>Login Page</p>
+<img src="Screenshots/Login.PNG"  height="400" />
+<br>
+
 <p>Home Page</p>
 <img src="Screenshots/Home.PNG"  height="400" />
 <br>
